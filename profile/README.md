@@ -8,7 +8,8 @@ GitTogethers serves as a platform for organizing and promoting GitHub community-
 
 ## Existing GitTogethers City Repositories and Meetup URLs
 
-![org-banner](https://private-user-images.githubusercontent.com/20666190/327136341-b64c5ecf-b206-4fc4-8ce0-eb9c4188f3a6.png)
+![gittogethers-org-assets](https://github.com/user-attachments/assets/84aff3ca-5bef-4afe-a7fd-cf73249d9852)
+
 
 | City | Repository URL | Meetup URL |
 |------|----------------|------------|
